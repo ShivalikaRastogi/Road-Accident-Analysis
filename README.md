@@ -18,3 +18,10 @@ Used Excel as a visualization tool. With the help of this, I have created attrac
 
 🔄 Dashboard Making: 
 Finally, I built a dashboard in Excel by inserting slicers and timelines that allow users to interact with the data.
+
+## Table of Contents
+* [Introduction](#Introduction)
+* [Dashboard Requirements](#Dashboard-Requirements)
+* [Installation / Usage](#Installation--Usage)
+* [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
+
