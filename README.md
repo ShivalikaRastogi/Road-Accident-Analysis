@@ -2,6 +2,8 @@
 # Road-Accident-Analysis
 In this Dashboard,I've created a comprehensive view of road accidents for the years 2021 and 2022. The objective was to provide valuable insights to clients and shed light on accident trends. Here's a glimpse of my approach:
 
+Link to the dashboard → [Road Accident Dashboard](https://www.novypro.com/project/road-accident-analysis-power-bi-4)
+
 🔍 Data Gathering & Cleaning:
 I imported the CSV file and performed various activities such as applying filters, removing duplicates, fixing errors, and transforming the data into an easily analyzable format. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and time of the accident.
 
